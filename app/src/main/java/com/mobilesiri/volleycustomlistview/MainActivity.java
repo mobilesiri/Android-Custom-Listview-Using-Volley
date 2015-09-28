@@ -26,7 +26,7 @@ public class MainActivity extends Activity {
     private static final String TAG = MainActivity.class.getSimpleName();
 
     // Billionaires json url
-    private static final String url = "";
+    private static final String url = "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/richman.json";
     private ProgressDialog pDialog;
     private List<WorldsBillionaires> worldsBillionairesList = new ArrayList<WorldsBillionaires>();
     private ListView listView;
