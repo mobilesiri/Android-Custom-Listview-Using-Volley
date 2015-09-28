@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="name">17dp</dimen>
+    <dimen name="worth">15dip</dimen>
+    <dimen name="source">13dip</dimen>
+    <dimen name="InYear">12dip</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
