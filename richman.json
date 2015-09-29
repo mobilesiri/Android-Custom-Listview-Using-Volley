@@ -1,91 +1,91 @@
 [
 {
         "name": "Bill Gates",
-        "image": "http://www.informaxinc.ru/wp-content/uploads/2014/02/b_g1.jpg",
+        "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Bill_Gates.jpg",
         "worth": "$79.2 billion",
         "InYear": 2015,
         "source": "Microsoft"
     },
     {
         "name": "Carlos Slim",
-        "image": "http://static01.nyt.com/images/2009/02/16/business/16slim.2.650.jpg",
+        "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Carlos_Slim_Helu.jpg",
         "worth": "$77.1 billion",
         "InYear": 2015,
         "source": "Telmex, Grupo Carso"
     },
     {
         "name": "Warren Buffett",
-                "image": "http://b-i.forbesimg.com/schifrin/files/2013/06/0604_wealth-wizard-warren-buffet_650x455.jpg",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/WarrenBuffett.jpg",
                 "worth": "$72.7 billion",
                 "InYear": 2015,
                 "source": "Berkshire Hathaway"
     },
     {
         "name": "Amancio Ortega",
-                "image": "http://media.npr.org/assets/img/2013/03/04/amancio_ortega-fa7a5f9ed0ca2099262e120e905c54ce3f855fdc.jpg",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/amancio_ortega.jpg",
                 "worth": "$64.5 billion",
                 "InYear": 2015,
                 "source": "Inditex Group"
     },
     {
        "name": "Larry Ellison",
-               "image": "http://www.achievement.org/achievers/ell0/large/ell0-015.jpg",
+               "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Larry_Elllison.jpg",
                "worth": "$54.3 billion",
                "InYear": 2015,
                "source": "Oracle Corporation"
     },
     {
         "name": "Charles Koch",
-                "image": "http://www.kochind.com/img/cgkochwide.jpg",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/cgkochwide.jpg",
                 "worth": "$42.9 billion",
                 "InYear": 2015,
                 "source": "Koch Industries"
     },
     {
         "name": "David Koch",
-                "image": "http://images.nymag.com/news/features/koch100726_1_250.jpg",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/David_Kochcrop2007.jpg",
                 "worth": "$42.9 billion",
                 "InYear": 2015,
                 "source": "Koch Industries"
     },
     {
         "name": "Christy Walton",
-                "image": "http://i.forbesimg.com/media/lists/people/christy-walton_416x416.jpg",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/christywalton.jpg",
                 "worth": "$41.7 billion ",
                 "InYear": 2015,
                 "source": "Wal-Mart"
     },
     {
         "name": "Jim Walton",
-                "image": "http://static9.therichestimages.com/cdn/600/600/100/c/wp-content/uploads/2011/09/jim-c_130112233670063533.jpg",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Jim_Walton.jpg",
                 "worth": "$40.6 billion",
                 "InYear": 2015,
                 "source": "Wal-Mart"
     },
     {
        "name": "Liliane Bettencourt",
-               "image": "http://i.forbesimg.com/media/lists/people/liliane-bettencourt_416x416.jpg",
+               "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/lilianebettencourt.jpg",
                "worth": "$40.1 billion",
                "InYear": 2015,
                "source": "L'Oreal"
     },
     {
         "name": "Carlos Slim & family",
-                "image": "http://assets.cromly.s3.amazonaws.com/stories/http-::www.bornrich.com:carlos-slim-helu.jpg",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/CarlosSlimfamily.jpg",
                 "worth": "$79.2 billion",
                 "InYear": 2014,
                 "source": "Telmex, América Móvil, Grupo Carso"
     },
     {
        "name": "Bernard Arnault",
-               "image": "http://images.forbes.com/media/lists/10/2009/bernard-arnault.jpg",
+               "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Bernard_Arnault.jpg",
                "worth": "$29.0 billion",
                "InYear": 2013,
                "source": "LVMH Moët Hennessy • Louis Vuitton"
     },
     {
         "name": "Prince Al-Waleed",
-                "image": "http://dealbreaker.com/uploads/2014/03/alwaleed.jpg",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/PrinceAlwaleed.jpg",
                 "worth": "$23.7 billion",
                 "InYear": 2005,
                 "source": "Kingdom Holding Company"
